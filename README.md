@@ -1,6 +1,6 @@
 # speech_recogniton
 
-This code can recognize you speech and save it in file
+This code can recognize your speech and save it in file
 
 ## module
 you need to install modeules below
