@@ -1,3 +1,5 @@
 # speech_recogniton
 
-音声認識のコード
+## module
+- SpeechRecognition
+pip install SpeechRecognition
